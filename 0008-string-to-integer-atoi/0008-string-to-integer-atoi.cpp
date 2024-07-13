@@ -15,7 +15,6 @@ public:
         while(i<s.length() && isdigit(s[i]) && num<=INT_MAX)
         {
             num = num*10 + (s[i++] - '0');
-            // it helps in making the numeric character into integer value
         }
         // for rounding off wala part
         num = max(sign*num , (long)INT_MIN);
