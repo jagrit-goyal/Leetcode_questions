@@ -1,1 +1,1 @@
-Welcome to my LeetCode_questions repository! This repository contains my solutions to various LeetCode problems. I use the [LeetHub](https://github.com/QasimWani/LeetHub) extension to automatically upload my solutions to this repository.
+**Welcome to my LeetCode_questions repository!** This repository contains my solutions to various LeetCode problems. I use the [LeetHub](https://github.com/QasimWani/LeetHub) extension to automatically upload my solutions to this repository.
